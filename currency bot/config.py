@@ -1,4 +1,6 @@
-TOKEN = "5843579450:AAEUuJfcnbebVkP1S8YFiJFDHtKsHhwD8YI"
+# Необходимо указать токен!
+TOKEN = ""
+
 
 keys_ = {
     'рубль': 'RUB',
